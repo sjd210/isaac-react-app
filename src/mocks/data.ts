@@ -3593,7 +3593,7 @@ export const mockRegressionTestQuestionParts = [
                 "title": "Multiple Choice",
                 "encoding": "markdown",
                 "children": [],
-                "value": "This is a multiple choice question with a visual regression. The correct answer is $42$.",
+                "value": "This is a multiple choice question with a second visual regression. The correct answer is $42$.",
                 "published": true,
                 "hints": [
                     {
