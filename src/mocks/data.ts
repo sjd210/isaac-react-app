@@ -3553,7 +3553,7 @@ export const mockRegressionTestQuestionParts = [
                 "title": "Quick Question",
                 "encoding": "markdown",
                 "children": [],
-                "value": "This is a quick question.",
+                "value": "This is a quick question with a visual regression.",
                 "published": true,
                 "answer": {
                     "type": "content",
