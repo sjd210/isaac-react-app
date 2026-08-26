@@ -11,6 +11,8 @@ on:
 
 jobs:
   build-and-test:
+    if: ${{ !startsWith(github.head_ref, 'vrt/') }}
+
     runs-on: ubuntu-latest
 
     strategy:
