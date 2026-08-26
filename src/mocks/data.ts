@@ -3797,7 +3797,7 @@ export const mockRegressionTestQuestionParts = [
                         "type": "content",
                         "encoding": "markdown",
                         "children": [],
-                        "value": "This is a symbolic question. The answer is $x$.",
+                        "value": "This is a regressed symbolic question. The answer is $x$.",
                         "tags": []
                     }
                 ],
